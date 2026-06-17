@@ -19,6 +19,26 @@ This project was developed as a prototype for improving communication between ca
 
 ---
 
+# System Architecture Visualization
+
+## Overall System Flow
+
+![Overall System Architecture](images/flowchart.png)
+
+---
+
+## Example of Actual Chatbot Interaction
+
+### Example 1
+
+![Chatbot Conversation Example 1](images/screenshot1.jpg)
+
+### Example 2
+
+![Chatbot Conversation Example 2](images/screenshot2.jpg)
+
+---
+
 # 카카오톡 기반 환자 상태 조회 시스템
 
 ## 프로젝트 개요
